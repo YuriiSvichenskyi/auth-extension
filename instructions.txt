@@ -1,3 +1,6 @@
-install bcrypt library
+Install bcrypt library
 npm i bcrypt
 npm i @types/bcrypt -D
+
+Install JWT dependencies
+npm i @nestjs/jwt @nestjs/config
