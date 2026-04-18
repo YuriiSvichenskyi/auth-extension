@@ -1,0 +1,3 @@
+install bcrypt library
+npm i bcrypt
+npm i @types/bcrypt -D
